@@ -1,0 +1,32 @@
+
+
+
+
+
+<link href="../css/style.css" rel="stylesheet" type="text/css">
+<html>
+
+<body>
+       
+
+
+<p align="center"><font size="4"><b>毕 业 设 计（论 文）任 务 书</b><br>
+ _____________________________________________________________<br>
+ </font> </p>
+ <p style="line-height: 150%;">
+一、学生姓名：邵伟杰&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;学号：41724352<br>
+二、题目:租房用户行为数据分析系统的设计与实现<br>
+三、题目来源：真实&nbsp;&nbsp;<input type="checkbox" name="txt_TMLY" checked  value="0" style="width:400;height=400"
+>、&nbsp;&nbsp;&nbsp;&nbsp;自拟&nbsp;&nbsp;<input type="checkbox" name="txt_TMLY"   value="1" style="width:400;height=400"><br>           	
+四、结业方式：设计&nbsp;&nbsp;<input type="checkbox" name="txt_JYFS" checked  value="0" style="width:400;height=400">、&nbsp;&nbsp;&nbsp;&nbsp;论文&nbsp;&nbsp;<input type="checkbox" name="txt_JYFS"  value="1" style="width:400;height=400" ><br>
+五、主要内容：<br>&nbsp;&nbsp;近年来，随着信息技术的快速发展，租房已成为当下青年群体的主流选择，线上租房平台也在高速发展。随着租房平台数据的增长，其结构也越来越复杂，所以建立一个数据分析平台势在必行。用户行为数据经过深入研究可以得出一系列的网站指标，让平台工作人员了解平台各方面的运作情况、对平台的不足之处做出判断和纠错，为平台创造更多的收益价值。<br>&nbsp;&nbsp;&nbsp;&nbsp;本项目主要解决在大数据场景下，分析租房用户的需求和消费行为；通过将在线租房平台的用户行为数据采集到大数据存储系统中；对数据仓库的数据进行分层处理，分别对数据进行保存、清洗、合并、拆分、统计等工作；构建可视化系统，让平台工作人员可视化地选择、筛选参数等，研究用户行为数据。<br>
+六、主要（技术）要求：<br>1.&nbsp;设计数据的挖掘分类算法，满足时效性的同时具有缓存功能；<br>2.&nbsp;研究用户行为分析模型，建立用户属性和标签，对行为分析指标进行系统设计；<br>3.&nbsp;利用大数据开发组件如，Hadoop、Flume、Kafka、Hive、Superset等进行开发，最终将用户分析的指标可视化展现。<br>
+七、日程安排：<br>第1周至第3周：查阅相关文献和资料，阅读有关书籍。准备书写开题报告，翻译英文文献；&nbsp;&nbsp;&nbsp;&nbsp;<br>第4周至第5周：熟悉编程环境，抽象描述软件的功能，确定软件的总体设计，并对该工具的各种功能进行分析；<br>第6周至第7周：对软件的功能具体进行设计，设计出软件功能模块的详细规格说明；&nbsp;<br>第8周至第10周：写出正确高效的程序代码实现软件的具体功能模块，对软件进行测试，使软件能够实现基本功能；&nbsp;<br>第11周至第14周：调试软件bug，撰写文档；&nbsp;&nbsp;&nbsp;<br>第15周至第16周：课题经验总结，根据研究结果书写毕业论文并准备进行答辩。<br>
+八、主要参考文献和书目：<br>[1] 陈奇龙．基于区块链的租房平台[D]．浙江师范大学,2019．<br>[2] 谌志华．基于大数据的网络舆情分析系统[J]．现代电子技术,2017（24）:15 17．<br>[3] 李治．数据挖掘在商业信息服务中的应用[J]．电脑知识与技术,2015(5)．<br>[4] Michael Frampton, Big Data Made Easy, A Working Guide to the Complete Hadoop Toolset[M].Apress,December 23,2014,165.<br>[5] Rajiv Tiwari, Hadoop for Finance Essentials[M].Packt Publishing, April 30,2015,76.<br>[6] 邵帅．基于Spark的SQL连接优化研究与应用[D]．北京交通大学,2017．<br>[7] 刘春雷．基于代价模型的Spark SQL查询优化研究[D]．电子科技大学,2016．<br>[8] 王彦明．近年来Hadoop国内研究进展[J]．现代情报,2014,34(08):14 19．<br>[9] 卜晓宁．基于大数据中查询日志的用户行为分析系统的设计与实现[D]．北京交通大学,2015.<br> 
+<p align="right">指导教师签字：&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;年&nbsp;&nbsp;&nbsp;月&nbsp;&nbsp;&nbsp;日
+<p align="right">学 生 签 字：&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;年&nbsp;&nbsp;&nbsp;月&nbsp;&nbsp;&nbsp;日
+<p align="right">系（所）负责人章：&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;年&nbsp;&nbsp;&nbsp;月&nbsp;&nbsp;&nbsp;日
+</body>
+</html>
+	
+
